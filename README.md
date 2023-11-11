@@ -1,6 +1,6 @@
 [![MasterHead](https://datapandas.com/wp-content/uploads/2017/06/java-python-sql-excel-similarities.png)
 <h1 align="center">Hi 👋, I'm Agshin Ashurov</h1>
-<h3 align="center">A passionate data analyst from Azerbaijan</h3>
+<h3 align="center">A enthusiastic data analyst from Azerbaijan</h3>
 
 - 🌱 I’m currently learning **Data Analytics,Data science**
 
