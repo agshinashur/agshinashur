@@ -1,4 +1,4 @@
-[![MasterHead](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2018/06/10083914/data_analyst_programming_languages.jpg)
+[![MasterHead](https://datapandas.com/wp-content/uploads/2017/06/java-python-sql-excel-similarities.png)
 <h1 align="center">Hi 👋, I'm Agshin Ashurov</h1>
 <h3 align="center">A passionate data analyst from Azerbaijan</h3>
 
